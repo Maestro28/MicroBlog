@@ -104,3 +104,8 @@ Traceback (most recent call last):
 smtplib.SMTPServerDisconnected: please run connect() first
 2021-11-28 11:51:10,070 INFO: Microblog startup [in C:\Users\Maestro\Desktop\microblog\app\__init__.py:49]
 2021-11-28 19:55:57,427 INFO: Microblog startup [in C:\Users\Maestro\Desktop\microblog\app\__init__.py:51]
+2021-11-29 07:22:56,859 INFO: Microblog startup [in C:\Users\Maestro\Desktop\microblog\app\__init__.py:52]
+2021-11-29 07:44:57,967 INFO: Microblog startup [in C:\Users\Maestro\Desktop\microblog\app\__init__.py:52]
+2021-11-29 07:46:21,118 INFO: Microblog startup [in C:\Users\Maestro\Desktop\microblog\app\__init__.py:52]
+2021-11-29 07:55:46,882 INFO: Microblog startup [in C:\Users\Maestro\Desktop\microblog\app\__init__.py:52]
+2021-11-29 08:18:25,669 INFO: Microblog startup [in C:\Users\Maestro\Desktop\microblog\app\__init__.py:52]
